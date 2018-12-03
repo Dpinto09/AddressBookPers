@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PersonalWork.iml" filepath="$PROJECT_DIR$/.idea/modules/PersonalWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PersonalWork_main.iml" filepath="$PROJECT_DIR$/.idea/modules/PersonalWork_main.iml" group="PersonalWork" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PersonalWork_test.iml" filepath="$PROJECT_DIR$/.idea/modules/PersonalWork_test.iml" group="PersonalWork" />
+    </modules>
+  </component>
+</project>
